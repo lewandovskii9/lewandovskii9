@@ -16,7 +16,6 @@ I am a student and an aspiring **SOC Analyst / Cybersecurity Enthusiast** curren
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldiyar-bulat-194478403/)
-[![Portfolio](https://img.shields.io/badge/Roadmap-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](ССЫЛКА_НА_ТВОЙ_ОСНОВНОЙ_ROADMAP)
 
 ---
 *"Work hard payoffs."*
