@@ -1,4 +1,4 @@
-#👋
+# Hellow👋 
 I am a student and an aspiring **SOC Analyst / Cybersecurity Enthusiast** currently building my professional portfolio. I focus on infrastructure security, malware analysis, and defensive operations.
 
 ### 🛡️ What I'm working on right now:
