@@ -5,7 +5,7 @@ I am a student and an aspiring **SOC Analyst / Cybersecurity Enthusiast** curren
 - Developing SOC skills
 
 ### 📁 Featured Projects
-- **[Network-Analysis-Notes](https://github.com/lewandovskii9/network-analysis):** My findings and checklists for digital analysis.
+- **[Network-Analysis-Notes](https://github.com/lewandovskii9/network-analysis):** My findings and write-ups of digital analysis.
 - **[AD-SOC-Lab](https://github.com/lewandovskii9/windows-ad-labs):** A step-by-step guide to setting up a domain with advanced logging for security analysis.
 - **[reverse-engineering](https://github.com/lewandovskii9/reverse-engineering)** — Assembly patterns, PE structure analysis (PEStudio), Ghidra decompilation, and crackme write-ups.
 - **[forensics-labs](https://github.com/lewandovskii9/forensics-labs)** — RAM memory analysis using Volatility3 (DumpMe, Krakens Key CTFs) and disk forensics with Autopsy.
