@@ -1,8 +1,9 @@
 # Hellow👋 
-I am a student and an aspiring **SOC Analyst / Cybersecurity Enthusiast** currently building my professional portfolio. I focus on infrastructure security, malware analysis, and defensive operations.
+I am a student and an aspiring **Cybersecurity Enthusiast** currently building my professional portfolio. I focus on infrastructure security, malware analysis, and defensive operations.
 
 ### 🛡️ What I'm working on right now:
-- Developing SOC skills
+- **Developing** SOC skills
+- **Certifications**: Preparing for **CompTIA Security+** (Target exam: August 2026).
 
 ### 📁 Featured Projects
 - **[Network-Analysis-Notes](https://github.com/lewandovskii9/network-analysis):** My findings and write-ups of digital analysis.
