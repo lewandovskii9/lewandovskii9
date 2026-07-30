@@ -1,5 +1,5 @@
 # Hellow👋 
-I am a student and an aspiring **Cybersecurity Enthusiast** currently building my professional portfolio. I focus on infrastructure security, malware analysis, and defensive operations.
+I am a student and **Cybersecurity Enjoyer** currently building my professional portfolio. I focus on infrastructure security, malware analysis, and defensive operations.
 
 ### 🛡️ What I'm working on right now:
 - **Developing** SOC skills
