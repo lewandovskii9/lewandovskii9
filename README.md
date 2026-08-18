@@ -14,9 +14,6 @@ I am a student and **Cybersecurity Enjoyer** currently building my professional 
 - **[Web-Security](https://github.com/lewandovskii9/web-security)** — Defensive web attack analysis (SQLi, XSS, Path Traversal), `access.log` investigation with Bash/Grep, and PortSwigger labs.
 - **[Splunk-SIEM](https://github.com/lewandovskii9/splunk-siem)** — Advanced Splunk SPL queries, BOTS v1 APT full-scope investigation, detection queries, and Sigma rule engineering.
 - **[SOC-Incident-Reports](https://github.com/lewandovskii9/soc-incident-reports)** — 30 closed LetsDefend Pro+ alerts, 5 full Incident Response (IR) reports, 15 brief write-ups, and SOC L1 Playbooks.
-- **[IDs-Snort-Rules](https://github.com/lewandovskii9/ids-snort-rules)** — Custom Snort IDS/IPS rule creation, syntax validation, and testing on real attack PCAP datasets.
-- **[Threat-Intelligence](https://github.com/lewandovskii9/threat-intelligence)** — MITRE ATT&CK mapping, YARA rule writing, APT report dissection, and OSINT workflows.
-- **[Malware-Analysis](https://github.com/lewandovskii9/malware-analysis)** — Static and dynamic analysis of 10 real malware samples (Any.Run), comprehensive malware reports, and sample YARA signatures.
 
 ### 🎓 Certifications & Education
 - ComptiaSEC+ [expected august 2026]
