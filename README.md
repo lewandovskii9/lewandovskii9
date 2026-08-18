@@ -10,7 +10,6 @@ I am a student and **Cybersecurity Enjoyer** currently building my professional 
 - **[Reverse-Engineering](https://github.com/lewandovskii9/reverse-engineering)** — Assembly patterns, PE structure analysis (PEStudio), Ghidra decompilation, and crackme write-ups.
 
 ### 🎓 Certifications & Education
-- Pursuing ComptiaSEC+, 
 - Studying at Narxoz University, Almaty. [Undergraduate]
 
 ### 📫 Connect with me:
