@@ -3,20 +3,14 @@ I am a student and **Cybersecurity Enjoyer** currently building my professional 
 
 ### 🛡️ What I'm working on right now:
 - **Developing** SOC skills
-- **Certifications**: Preparing for **CompTIA Security+** (Target exam: August 2026).
 
 ### 📁 Featured Projects
 - **[Network-Analysis-Notes](https://github.com/lewandovskii9/network-analysis):** My findings and write-ups of digital analysis.
 - **[AD-SOC-Lab](https://github.com/lewandovskii9/windows-ad-labs):** A step-by-step guide to setting up a domain with advanced logging for security analysis.
 - **[Reverse-Engineering](https://github.com/lewandovskii9/reverse-engineering)** — Assembly patterns, PE structure analysis (PEStudio), Ghidra decompilation, and crackme write-ups.
-- **[Forensics-Labs](https://github.com/lewandovskii9/forensics-labs)** — RAM memory analysis using Volatility3 (DumpMe, Krakens Key CTFs) and disk forensics with Autopsy.
-- **[Cryptography-Labs](https://github.com/lewandovskii9/cryptography-labs)** — Practical crypto for SOC analysts, TLS handshake analysis in Wireshark, Cryptohack solutions, and CyberChef recipes.
-- **[Web-Security](https://github.com/lewandovskii9/web-security)** — Defensive web attack analysis (SQLi, XSS, Path Traversal), `access.log` investigation with Bash/Grep, and PortSwigger labs.
-- **[Splunk-SIEM](https://github.com/lewandovskii9/splunk-siem)** — Advanced Splunk SPL queries, BOTS v1 APT full-scope investigation, detection queries, and Sigma rule engineering.
-- **[SOC-Incident-Reports](https://github.com/lewandovskii9/soc-incident-reports)** — 30 closed LetsDefend Pro+ alerts, 5 full Incident Response (IR) reports, 15 brief write-ups, and SOC L1 Playbooks.
 
 ### 🎓 Certifications & Education
-- ComptiaSEC+ [expected august 2026]
+- Pursuing ComptiaSEC+, 
 - Studying at Narxoz University, Almaty. [Undergraduate]
 
 ### 📫 Connect with me:
