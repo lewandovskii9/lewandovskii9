@@ -13,7 +13,7 @@ I am a student and **Cybersecurity Enjoyer** currently building my professional 
 - Studying at Narxoz University, Almaty. [Undergraduate]
 
 ### 📫 Connect with me:
-Email : gilgilop4@gmail.com
+Email : bulat.aldiyar888@gmail.com
 
 [![LinkedIn|91](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldiyar-bulat-194478403/)
 
